@@ -128,10 +128,12 @@ This project simulates AI using:
 ## 👨‍💻 Author
 
 **Pranav**
-B.Tech Computer Science
+B.Tech Computer Science and Enginnering
 
 ---
 
 ## ⭐ Final Note
 
 This project shows how **AI concepts + frontend engineering** can solve real-world problems in a simple yet powerful way.
+
+Build with focus,late nights,and determination.
